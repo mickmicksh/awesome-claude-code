@@ -287,6 +287,7 @@
 - [/rsi](https://github.com/ddisisto/si/blob/main/.claude/commands/rsi.md) by [ddisisto](https://github.com/ddisisto) - Reads all commands and key project files to optimize AI-assisted development by streamlining the process, loading command context, and setting up for better development workflow.
 
 ### Documentation & Changelogs
+- [LAP](https://github.com/Lap-Platform/LAP) - Compiles API specs into lean, token-efficient formats that prevent AI agent hallucinations. Supports OpenAPI, GraphQL, AsyncAPI, Protobuf & Postman. Ships with a registry of 1,500+ pre-compiled specs.
 
 - [/add-to-changelog](https://github.com/berrydev-ai/blockdoc-python/blob/main/.claude/commands/add-to-changelog.md) by [berrydev-ai](https://github.com/berrydev-ai) - Adds new entries to changelog files while maintaining format consistency, properly documenting changes, and following established project standards for version tracking.
 - [/create-docs](https://github.com/jerseycheese/Narraitor/blob/feature/issue-227-ai-suggestions/.claude/commands/create-docs.md) by [jerseycheese](https://github.com/jerseycheese) - Analyzes code structure and purpose to create comprehensive documentation detailing inputs/outputs, behavior, user interaction flows, and edge cases with error handling.
